@@ -1,0 +1,5 @@
+#add 2 numbs 
+a=3
+b=5
+c=a+b
+print(c)
